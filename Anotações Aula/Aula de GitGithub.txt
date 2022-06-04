@@ -1,0 +1,2 @@
+ECHO est  ativado.
+Tem coisa aqui anotada
